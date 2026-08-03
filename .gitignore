@@ -33,3 +33,11 @@ Thumbs.db
 inbox/*
 !inbox/.gitkeep
 !inbox/README.md
+
+# Obsidian: shared config, not machine state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/themes/
+.obsidian/snippets/
