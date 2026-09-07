@@ -28,6 +28,8 @@ Thumbs.db
 
 # AI assistant local state
 .claude/
+AGENTS.md
+MEMORY.md
 
 # inbox pipeline runtime (track only the placeholder + docs)
 inbox/*
